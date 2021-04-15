@@ -1,0 +1,9 @@
+---
+layout: page
+title: Plain Text and Data Table 
+date: 2021-03-22
+---
+
+Plain Text and Data Table
+
+<embed src= "/assets/images/2021-03-22-Data.pdf" type="application/pdf" width="100%"> 
