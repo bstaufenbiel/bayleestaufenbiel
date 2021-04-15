@@ -23,4 +23,4 @@ On this page you will find a link to the original XML files used before the text
 - Publisher: Old Bailey Proceedings Online — Tim Hitchcock, Robert Shoemaker, Clive Emsley, Sharon Howard and Jamie McLaughlin, et al., The Old Bailey Proceedings Online, 1674-1913 (www.oldbaileyonline.org, version 7.0, 24 March 2012).
 - API location: [API Link](https://www.oldbaileyonline.org/obapi/)
 - Search terms: “Midwife” and "Infanticide" between Dates 29 April 1674 — 09 December 1789
-- Number of pages: 191 documents / 77 pages in PDF format after cleaning [link to Data Table](http://bstaufen.netlify.app/Data-Table)
+- Number of pages: 191 documents / 77 pages in PDF format after cleaning [link to Data Table](http://bstaufenbiel.netlify.app/Data-Table)
