@@ -14,10 +14,10 @@ This data set uses <em>Old Bailey Proceedings</em> to look at how women's bodies
 - Did the midwives portray any specialized medical knowledge? 
 - What do these proceedings tell us about society and gender in early modern London? 
 
-
+<hr />
 
 mediator theme:
-
+===============
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
