@@ -8,6 +8,8 @@ New Visualization
 
 The second image here shows the percentage breakdown of each category. Traditionally we think of women being persecuted for possible infanticide or other means of child death. However, the data shows that 2/3rds of the women are acquitted of their crimes.  
 
+<hr />
+
 | **Outcomes** 	| **Percentage** 	|
 |:-:	|:-:	|
 | Innocent 	| 65.97 	|
@@ -16,5 +18,7 @@ The second image here shows the percentage breakdown of each category. Tradition
 | Guilty  (Execution respited for pregnancy) 	| 0.524 	|
 | Guilty (Imprisonment) 	| 0.524 	|
 | Unknown 	| 0.524 	|
+
+<hr />
 
 ![Outcomes](/assets/images/2021-04-06-New-Visualization.png)
