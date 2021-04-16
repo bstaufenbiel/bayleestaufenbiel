@@ -17,4 +17,4 @@ The second image here shows the percentage breakdown of each category. Tradition
 | Guilty (Imprisonment) 	| 0.524 	|
 | Unknown 	| 0.524 	|
 
-<iframe src="https://drive.google.com/file/d/1zv8lCWA8_4heGEvEh1A9kCLtmklZIDkC/preview" width="800" height="680"></iframe>
+![Outcomes](assets/images/2021-04-06-Outcome-Percentages.png)
