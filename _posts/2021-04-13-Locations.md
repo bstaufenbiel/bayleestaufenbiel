@@ -206,5 +206,9 @@ Here I have provided a table that shows the locations where the crime was suppos
 
 <br>
 
-![Parish Map](/assets/images/2021-04-13-Locations-Civil-Parishes.png)
-[Parish Map Source](https://commons.wikimedia.org/wiki/File:City_of_London_civil_parishes_Map_1870.png)
+<iframe src="https://www.google.com/maps/d/embed?mid=1piC0uUTBy-VugNphKuV2eALsS8OnRBL3&hl=en" width="790" height="480"></iframe>
+
+<br>
+
+![Parish Map 2](/assets/images/2021-04-13-Locations-Civil-Parishes.png)
+[Civil Parish Map Source-Map2](https://commons.wikimedia.org/wiki/File:City_of_London_civil_parishes_Map_1870.png)
